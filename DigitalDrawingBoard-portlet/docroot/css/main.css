@@ -1,0 +1,62 @@
+#title {
+	overflow: hidden;
+	position: relative;
+}
+
+#tool {
+	margin: 10px 10px 10px;
+}
+
+.canvas-container {
+	margin-left: 5px;
+}
+
+.tab-pane img, .icon_style {
+	padding: 5px 10px;
+	border: 1px solid #e1e1e1 !important;
+	height: 20px !important;
+	width: 20px;
+	margin: 5px;
+}
+
+.cg-form-control {
+	height: 30px;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #555;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	-webkit-transition: border-color ease-in-out .15s, box-shadow
+		ease-in-out .15s;
+	-o-transition: border-color ease-in-out .15s, box-shadow ease-in-out
+		.15s;
+	transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+	margin: 5px;
+}
+
+.cg-form-control:focus {
+	border-color: #66afe9;
+	outline: 0;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px
+		rgba(102, 175, 233, 0.6);
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px
+		rgba(102, 175, 233, 0.6)
+}
+
+#bg_div input[type="file"] {
+	display: inline;
+	padding: 1px 1px !important;
+}
+
+.icon_style2 {
+	padding: 5px 10px;
+	border: 1px solid #e1e1e1 !important;
+	height: 20px !important;
+	width: 20px;
+	margin: 5px;
+}
